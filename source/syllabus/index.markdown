@@ -7,21 +7,21 @@ sharing: true
 footer: true
 ---
 
-Cornish College of the Arts  
-Design Department, Fall Semester 2013  
-**Course Code:** DE-271  
-**Course Name:** Interactive Publishing I  
-**Days/Times:** Tuesday/Thursday, 4:30pm-5:55pm  
-**Room:** MCC Room 405  
+Cornish College of the Arts
+Design Department, Fall Semester 2013
+**Course Code:** DE-271
+**Course Name:** Interactive Publishing I
+**Days/Times:** Tuesday/Thursday, 4:30pm-5:55pm
+**Room:** MCC Room 405
 
 **Faculty Name:** Mark Kornblum
 
 **Contact information:**
 
 Email: [mkornblum@cornish.edu](mailto:mkornblum@cornish.edu) or
-[mark.kornblum@gmail.com](mailto:mark.kornblum@gmail.com)  
-Cell: 206.393.8581  
-Twitter/Github: [mkornblum](http://twitter.com/mkornblum)  
+[mark.kornblum@gmail.com](mailto:mark.kornblum@gmail.com)
+Cell: 206.393.8581
+Twitter/Github: [mkornblum](http://twitter.com/mkornblum)
 GChat: mark.kornblum
 
 ### Course Description
@@ -163,18 +163,18 @@ change your grade if you complain" are not the same thing.
 
 #### Grading System
 
-A = 95 - 100%  
-A- = 90 - 94%  
-B+ = 85 - 89%  
-B = 80 - 84%  
-B- = 75 - 79%  
-C+ = 70 - 74%  
-C = 65 - 69%  
-C- = 60 - 64%  
-D+ = 55 - 59%  
-D = 51 - 54%  
-D- = 50%  
-F = 49% and below  
+A = 95 - 100%
+A- = 90 - 94%
+B+ = 85 - 89%
+B = 80 - 84%
+B- = 75 - 79%
+C+ = 70 - 74%
+C = 65 - 69%
+C- = 60 - 64%
+D+ = 55 - 59%
+D = 51 - 54%
+D- = 50%
+F = 49% and below
 
 #### Late Projects
 
@@ -251,6 +251,9 @@ is also provided in the College student handbook.
   Firefox. Allows you to easily view a document's structure, see what
   CSS properties are effecting a given element, try out changes
   on-the-fly, debug javascript, much more.
+- [Sublime Text 2](http://www.sublimetext.com/) - Shareware code
+  editor, rapidly increasing popularity. You should pay for it if you
+  continue using it long-term.
 - [Komodo Edit](http://www.activestate.com/komodo-edit/downloads) -
   Free code editor. In some respects like a stripped-down
   Dreamweaver. Has helpful things like autocompleting HTML tag
