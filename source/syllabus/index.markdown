@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "syllabus"
+title: "Syllabus"
 date: 2013-09-02 19:59
 comments: true
 sharing: true
