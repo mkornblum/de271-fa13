@@ -14,7 +14,7 @@ footer: true
 ### HTML Reference
 - [List of HTML5 Elements](https://developer.mozilla.org/en-US/docs/HTML/Element)
 - [Mozilla Developer Network HTML5 Guide](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
-- [HTML Beginner Tutorial](http://www.htmldog.com/guides/htmlbeginner/?redirectlocale=en-US&redirectslug=HTML_Beginner%27s_Guide_%28external%29)
+- [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
 ### Interactive Design & CSS Oriented Blogs
 - [A List Apart](http://alistapart.com/)
