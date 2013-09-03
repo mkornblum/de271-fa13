@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title><![CDATA[DE271 Fall 2013]]></title>
+	<link href="http://mkornblum.github.io/de271-fa13/atom.xml" rel="self"/>
+	<link href="http://mkornblum.github.io/de271-fa13/"/>
+	<updated>2013-09-03T00:00:17-07:00</updated>
+	<id>http://mkornblum.github.io/de271-fa13/</id>
+	<author>
+		<name><![CDATA[Mark Kornblum]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
+
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Welcome to the DE271 Course Blog]]></title>
+		
+		<link href="http://mkornblum.github.io/de271-fa13/blog/2013/09/02/welcome-to-the-de271-course-blog/"/>
+		<updated>2013-09-02T23:55:00-07:00</updated>
+		<id>http://mkornblum.github.io/de271-fa13/blog/2013/09/02/welcome-to-the-de271-course-blog</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
+</feed>
