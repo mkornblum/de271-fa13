@@ -39,6 +39,16 @@ footer: true
 - [UX/UI: Do you have the wrong job title?](http://thehipperelement.com/articles/do-you-have-the-wrong-job-title/)
 
 ### Additional Resources
+
+#### Historical Context
+
+- [Taking Your Talent to the Web](http://takingyourtalenttotheweb.com/copyright.html)
+Book from 2001 aimed at print designers transitioning to web
+design. Most of the technical information is horribly out of date, but
+it's an interesting look at where we've come from, and many of the
+parts about the challenges and opportunities of web design vs. print
+are still relevant.
+
 #### Info about the command prompt
 - [Designer's Guide to the OSX Command Prompt](http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/)
 - [A Designer's Introduction to the Command Line](http://webdesign.tutsplus.com/tutorials/workflow-tutorials/quick-tip-a-designers-introduction-to-the-command-line/)
