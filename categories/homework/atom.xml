@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: homework | DE271 Fall 2013]]></title>
+  <link href="http://mkornblum.github.io/de271-fa13/categories/homework/atom.xml" rel="self"/>
+  <link href="http://mkornblum.github.io/de271-fa13/"/>
+  <updated>2013-09-08T23:29:37-07:00</updated>
+  <id>http://mkornblum.github.io/de271-fa13/</id>
+  <author>
+    <name><![CDATA[Mark Kornblum]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Day 1 Homework]]></title>
+    <link href="http://mkornblum.github.io/de271-fa13/blog/2013/09/04/day-1-homework/"/>
+    <updated>2013-09-04T13:25:00-07:00</updated>
+    <id>http://mkornblum.github.io/de271-fa13/blog/2013/09/04/day-1-homework</id>
+    <content type="html"><![CDATA[<p>DUE Thursday, September 5th.</p>
+
+<p>&ldquo;Basic Principles&rdquo; Find two sites or applications that are
+examples of successful interactive design and two other sites which
+are not successful. Write a couple of paragraphs about each one
+detailing why you think it works or doesn&rsquo;t work. Type this up into an
+email and send it to me sometime before the start of class on
+Thursday.</p>
+
+<p>Ask Yourself:</p>
+
+<ul>
+<li>What constitutes successful interactive design? Does it engage the
+user? Make them want to buy things? Make them want to participate?</li>
+<li>What are some interactive design features that should be avoided?</li>
+<li>What applications work? Why do they work? Are they easy to use? Are they fun?</li>
+<li>What applitcations fail? Why? Are they difficult to use? Do they not
+do anything useful?</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
