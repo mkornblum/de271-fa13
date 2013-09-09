@@ -7,21 +7,21 @@ sharing: true
 footer: true
 ---
 
-Cornish College of the Arts
-Design Department, Fall Semester 2013
-**Course Code:** DE-271
-**Course Name:** Interactive Publishing I
-**Days/Times:** Tuesday/Thursday, 4:30pm-5:55pm
-**Room:** MCC Room 405
+Cornish College of the Arts  
+Design Department, Fall Semester 2013  
+**Course Code:** DE-271  
+**Course Name:** Interactive Publishing I  
+**Days/Times:** Tuesday/Thursday, 4:30pm-5:55pm  
+**Room:** MCC Room 405  
 
 **Faculty Name:** Mark Kornblum
 
 **Contact information:**
 
 Email: [mkornblum@cornish.edu](mailto:mkornblum@cornish.edu) or
-[mark.kornblum@gmail.com](mailto:mark.kornblum@gmail.com)
-Cell: 206.393.8581
-Twitter/Github: [mkornblum](http://twitter.com/mkornblum)
+[mark.kornblum@gmail.com](mailto:mark.kornblum@gmail.com)  
+Cell: 206.393.8581  
+Twitter/Github: [mkornblum](http://twitter.com/mkornblum)  
 GChat: mark.kornblum
 
 ### Course Description
@@ -303,11 +303,9 @@ _Homework:_
    use of tags should make sense semantically. Use the \<img\> tag to
    include a screenshot of each page you mention.
 
-When you're done, zip everything into one file (your HTML page plus
-any image files you used) and submit it to me before the start of
-class on Tuesday. Make sure to name the zip file in a useful way - the
-department guidelines are ideal, but at a minimum, include your last
-name in the filename.
+When you're done, put everything into one directory (your HTML page
+plus any image files you used) and submit it to me using Dropbox
+before the start of class on Tuesday. 
 
 2. Suggested reading: Chapter 10, "HTML Intro" in "Interact With Web
    Standards". Refer to subsequent chapters as needed.
