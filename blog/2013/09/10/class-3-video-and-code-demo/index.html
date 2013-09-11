@@ -1,0 +1,259 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+        <head>
+                <meta charset="utf-8">
+                <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+                <meta content="width=device-width,initial-scale=1" name="viewport">
+                <meta content="" name="description">
+                <meta content="DE271 Fall 2013" name="author">
+
+                <title>Class 3 Video and Code Demo &mdash; DE271 Fall 2013</title>
+
+                <!-- Styles -->
+                <link href="/de271-fa13/stylesheets/main.css" rel="stylesheet">
+
+                <!-- Google webfonts -->
+                <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+                <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+
+                <!-- jQuery and plugins -->
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+                <script src="/de271-fa13/js/jquery.zclip.min.js"></script>
+
+                <!-- Syntax highlighter -->
+                <link href="/de271-fa13/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+                <script type="text/javascript" src="/de271-fa13/js/prettify.js"></script>
+
+        </head>
+        <body onload="prettyPrint()">
+
+                <div class="wrap">
+
+                        <header>
+                                <div class="title">DE271 Fall 2013</div>
+
+                                <div class="navi">
+                                        <ul>
+                                                <li><a href="/de271-fa13/">Home</a></li>
+                                                <li><a href="/de271-fa13/syllabus">Syllabus</a></li>
+                                                <li><a href="/de271-fa13/resources">Resources</a></li>
+                                                <li><a href="/de271-fa13/archives">Archives</a></li>
+                                        <ul>
+                                </div> <!-- // .navi -->
+                        </header>
+
+                                <!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="/de271-fa13/blog/2013/09/10/class-3-video-and-code-demo/">Class 3 Video and Code Demo</a></h1>
+		<time>10 September 2013</time>
+	</header>
+		<div class="content">
+			<p>Video from today&rsquo;s class:</p>
+
+<iframe src="/de271-fa13//player.vimeo.com/video/74262247" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p>Example code from class today is below, or
+<a href="https://github.com/mkornblum/de271-fa13/tree/master/source/downloads/code/class-3-html-and-css-demo">on Github</a>.</p>
+
+<figure class='code'><figcaption><span> (index.html)</span> <a href='/de271-fa13/downloads/code/class-3-html-and-css-demo/index.html'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="cp">&lt;!DOCTYPE html&gt;</span>
+</span><span class='line'><span class="nt">&lt;html&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;head&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;title&gt;</span>Good/Bad Websites<span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href=</span><span class="s">&quot;style.css&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/head&gt;</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="nt">&lt;body&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;h1&gt;</span>Cats<span class="nt">&lt;/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;promoted&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;h2&gt;</span>House Cats<span class="nt">&lt;/h2&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">&quot;circles.png&quot;</span> <span class="na">alt=</span><span class="s">&quot;Circles&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;p&gt;&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://en.wikipedia.org/wiki/Cat&quot;</span><span class="nt">&gt;</span>House cats<span class="nt">&lt;/a&gt;</span> make wonderful pets, unless you are alergic to them,
+</span><span class='line'>        in which case they are not as great, unless you get a
+</span><span class='line'>        hypoallergenic cat, which they have now.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="nt">&lt;ul&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;li&gt;</span>Persian<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;li&gt;</span>Siamese<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;li&gt;</span>Maine Coon<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;/ul&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;/div&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;quiet&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;h2&gt;</span>Jungle Cats<span class="nt">&lt;/h2&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;p&gt;</span>Jungle cats make poor pets as they are likely to eat you or
+</span><span class='line'>        your children or your other pets.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="nt">&lt;p&gt;</span>Most awesome jungle cats, ranked:<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;ol&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;li&gt;</span>Lion<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;li&gt;</span>Jaguar<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;li&gt;</span>Panther<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;li&gt;</span>Leopard<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;/ol&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;/div&gt;</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="nt">&lt;/body&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">&lt;/html&gt;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span> (style.css)</span> <a href='/de271-fa13/downloads/code/class-3-html-and-css-demo/style.css'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="nt">body</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span> <span class="nb">red</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">h1</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span> <span class="nb">green</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">li</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span> <span class="nb">yellow</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">div</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">font-family</span><span class="o">:</span> <span class="n">Helvetica</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">border</span><span class="o">:</span> <span class="m">1px</span> <span class="k">solid</span> <span class="nb">purple</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nc">.promoted</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">background-color</span><span class="o">:</span> <span class="m">#CCCCFF</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">border</span><span class="o">:</span> <span class="m">10px</span> <span class="k">solid</span> <span class="m">#b4da55</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+		</div>
+	<footer>
+		
+
+
+		
+
+
+
+
+	
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+
+                        <footer>
+                                Copyright &copy; 2013
+
+	Mark Kornblum
+
+
+                        </footer>
+
+                </div> <!-- // .wrap -->
+        </body>
+        <script>
+                $(document).ready(function() {
+                        // Make images center
+                        $('p:has(img)').css('text-align', 'center');
+
+                        // Add the image's title attribute as a caption
+                        $('p:has(img)').append(function () {
+                                return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+                        });
+
+                        // Prettify code
+                        $('code').addClass('prettyprint');
+                        $('pre code').addClass('linenums');
+
+                        // Copy to clipboard with button
+                        $('pre:has(code)').prepend(function(){
+                                return '<div class="clip-btn">copy to clipboard</div>';
+                        });
+                        $('.clip-btn').zclip({
+                                path:'/de271-fa13/js/ZeroClipboard.swf',
+                                copy: $(this).next('code').text(),
+                                afterCopy: function(){
+                                        $(this).replaceWith('<div class="clip-btn">copied!');
+                                        }
+                        });
+                });
+        </script>
+</html>
+<!-- END OF _layouts/default.html -->
