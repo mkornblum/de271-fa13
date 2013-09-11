@@ -1,0 +1,21 @@
+body {
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+
+li {
+    color: yellow;
+}
+
+div {
+    font-family: Helvetica;
+    border: 1px solid purple;
+}
+
+.promoted {
+    background-color: #CCCCFF;
+    border: 10px solid #b4da55;
+}
