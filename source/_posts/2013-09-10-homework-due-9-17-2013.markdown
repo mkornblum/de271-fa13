@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Homework due 9-17-2013"
+date: 2013-09-10 22:28
+comments: true
+categories: homework
+---
+
+1.  CSS Practice Worksheet - Typography and Color. Save the HTML file
+    below to your computer, create "style.css", and write the
+    necessary CSS to meet the requirements.
+
+{% include_code css-worksheet-1/selectors_challenge.html %}
+
+2.  Suggested Reading: Chapter 11, "CSS Intro" and Chapter 13, "Headings and Paragraphs"" in "Interact With Web Standards".

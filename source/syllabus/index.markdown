@@ -324,7 +324,7 @@ Lecture: "Intro to CSS"
 
 _Homework:_
 1.  CSS Practice Worksheet - Typography and Color
-2.  Suggestd Reading: Chapter 11, "CSS Intro" and Chapter 13, "Headings and Paragraphs"" in "Interact With Web Standards".
+2.  Suggested Reading: Chapter 11, "CSS Intro" and Chapter 13, "Headings and Paragraphs"" in "Interact With Web Standards".
 
 **Thurs 9/12**
 
