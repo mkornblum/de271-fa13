@@ -4,7 +4,7 @@
 	<title><![CDATA[DE271 Fall 2013]]></title>
 	<link href="http://mkornblum.github.io/de271-fa13/atom.xml" rel="self"/>
 	<link href="http://mkornblum.github.io/de271-fa13/"/>
-	<updated>2013-09-10T22:31:11-07:00</updated>
+	<updated>2013-09-12T16:38:33-07:00</updated>
 	<id>http://mkornblum.github.io/de271-fa13/</id>
 	<author>
 		<name><![CDATA[Mark Kornblum]]></name>
@@ -152,7 +152,7 @@ necessary CSS to meet the requirements.</li>
 			]]>
 			<![CDATA[<p>Video from today&rsquo;s class:</p>
 
-<iframe src="http://mkornblum.github.io/de271-fa13//player.vimeo.com/video/74262247" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://player.vimeo.com/video/74262247" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 <p>Example code from class today is below, or
