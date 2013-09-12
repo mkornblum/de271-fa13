@@ -8,7 +8,7 @@ categories:
 
 Video from today's class:
 
-<iframe src="//player.vimeo.com/video/74262247" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://player.vimeo.com/video/74262247" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Example code from class today is below, or
 [on Github](https://github.com/mkornblum/de271-fa13/tree/master/source/downloads/code/class-3-html-and-css-demo).
