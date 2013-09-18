@@ -6,7 +6,9 @@ comments: true
 categories: 
 ---
 
-Video will be up as soon as the upload to Vimeo completes.
+Video:
+
+<iframe src="http://player.vimeo.com/video/74794830" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Example code from class today is below, or
 [on Github](https://github.com/mkornblum/de271-fa13/tree/master/source/downloads/code/class-5-box-model-demo).
