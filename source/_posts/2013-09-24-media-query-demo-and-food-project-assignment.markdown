@@ -6,6 +6,9 @@ comments: true
 categories: 
 ---
 
+#### Class Video:
+<iframe src="http://player.vimeo.com/video/75462611" width="600" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 #### Example Code:
 {% include_code class-6-media-queries-demo/index.html %}
 
