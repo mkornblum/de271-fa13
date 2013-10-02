@@ -4,7 +4,7 @@
   <title><![CDATA[DE271 Fall 2013]]></title>
   <link href="http://mkornblum.github.io/de271-fa13/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.io/de271-fa13/"/>
-  <updated>2013-09-26T00:25:35-07:00</updated>
+  <updated>2013-10-01T22:45:09-07:00</updated>
   <id>http://mkornblum.github.io/de271-fa13/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Some Principles of Interaction Design]]></title>
+    <link href="http://mkornblum.github.io/de271-fa13/blog/2013/09/26/first-principles-of-interaction-design/"/>
+    <updated>2013-09-26T17:17:00-07:00</updated>
+    <id>http://mkornblum.github.io/de271-fa13/blog/2013/09/26/first-principles-of-interaction-design</id>
+    <content type="html"><![CDATA[<p>As you&rsquo;re working on your food project, please also take a look
+through the following articles. These will serve as background
+material as we move into our UX prototyping projects.</p>
+
+<h4>Interaction Design Concepts</h4>
+
+<p><a href="http://faculty.kutztown.edu/rieksts/385/topics/hci/tog-summary.html">Summarized First Principles of Interaction Design</a></p>
+
+<p><a href="http://www.asktog.com/basics/firstPrinciples.html">First Principles of Interaction Design</a> &ndash;
+Longer version of the principles outlined in the previous article.</p>
+
+<p><a href="https://developer.apple.com/library/mac/documentation/userexperience/Conceptual/AppleHIGuidelines/HIPrinciples/HIPrinciples.html#//apple_ref/doc/uid/TP30000353-TP6">Apple Human Interface Design Guidelines</a> &ndash;
+This link goes specifically to their &ldquo;Philosophy of UI&rdquo; fundamental
+principles, but please browse around too.</p>
+
+<h4>Feature Design and Specification</h4>
+
+<p><a href="http://www.allaboutagile.com/writing-good-user-stories/">Writing Good User Stories</a> &ndash;
+intro to &ldquo;How to write a user story&rdquo;</p>
+
+<p><a href="http://en.wikipedia.org/wiki/User_story">User Stories (Wikipedia)</a></p>
+
+<p><a href="http://trello.com">Trello</a> &ndash; free tool for work-tracking, Kanban
+boards, etc.</p>
+
+<h4>Prototyping</h4>
+
+<p><a href="http://alistapart.com/article/paperprototyping">Paper Prototyping</a> &ndash;
+Introduction, with some pictures</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Media Query Demo &amp; Food Project Assignment]]></title>
