@@ -31,6 +31,12 @@ intro to "How to write a user story"
 [Trello](http://trello.com) - free tool for work-tracking, Kanban
 boards, etc.
 
+#### Style Tiles
+
+[Style Tiles](http://styletil.es/)
+
+[Style Tiles as a Web Design Process Tool](http://badassideas.com/style-tiles-as-a-web-design-process-tool/)
+
 #### Prototyping
 
 [Paper Prototyping](http://alistapart.com/article/paperprototyping) -
