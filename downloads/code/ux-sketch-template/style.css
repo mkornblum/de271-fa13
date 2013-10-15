@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-size: 16px;
+    color: #222222;
+    background-color: #dddddd;
+}
+
+h2 {
+    margin-top: 2em;
+    border-top: 1px dotted #000000;
+    padding: 1.25em 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
